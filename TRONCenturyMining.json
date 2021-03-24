@@ -1,0 +1,75 @@
+{
+"name":"TRON CenturyMining",
+"tokens":[
+{
+"symbol":"TRX",
+"address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+"decimals":6,
+"name":"TRX",
+"logoURI":"https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+},
+{
+"symbol":"SUN",
+"address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+"chainId":1,
+"decimals":18,
+"name":"SUN TOKEN",
+"logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
+},
+{
+"symbol":"WBTT",
+"address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+"chainId":1,
+"decimals":6,
+"name":"Wrapped BitTorrent",
+"logoURI":"https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+},
+{
+"symbol":"JST",
+"address":"TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+"chainId":1,
+"decimals":18,
+"name":"JUST GOV v1.0",
+"logoURI":"https://coin.top/production/logo/just_icon.png"
+},
+{
+"symbol":"WIN",
+"address":"TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+"chainId":1,
+"decimals":6,
+"name":"WINK",
+"logoURI":"https://coin.top/profile_images/JKtJTydD_400x400.jpg"
+},
+{
+"symbol":"USDT",
+"address":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+"chainId":1,
+"decimals":6,
+"name":"Tether USD",
+"logoURI":"https://coin.top/production/logo/usdtlogo.png"
+},
+{
+"symbol":"USDJ",
+"address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
+"chainId":1,
+"decimals":18,
+"name":"JUST Stablecoin v1.0",
+"logoURI":"https://coin.top/production/logo/usdj.png"
+},
+{
+"symbol":"BTCST",
+"address":"TFVge5Nb6or8cpdtdwPuXSGqLHpj3PM9Rp",
+"chainId":1,
+"decimals":17,
+"name":"BTCST",
+"logoURI":"https://coin.top/production/logo/TFVge5Nb6or8cpdtdwPuXSGqLHpj3PM9Rp.png"
+}
+],
+"logoURI":"https://justswap.io/favicon.ico",
+"version":{
+"major":1,
+"minor":1,
+"patch":4
+},
+"timestamp":1611147166000
+}
